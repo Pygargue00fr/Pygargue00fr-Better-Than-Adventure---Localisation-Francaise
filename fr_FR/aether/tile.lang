@@ -20,7 +20,7 @@ tile.aether.flower.purple.desc=Une magnifique fleur violette.
 tile.aether.quicksoil.name=Terre accélérant
 tile.aether.quicksoil.desc=Terre jaune qui accélère tout ce qui s'y trouve.
 
-# Blocs fr pierres sacrées
+# Blocs de pierres sacrées
 tile.aether.holystone.name=Roche sacrée
 tile.aether.holystone.desc=Roche d'un blanc éclatant froide au toucher, polie par le temps.
 tile.aether.holystone.mossy.name=Roche sacrée moussue
@@ -46,13 +46,28 @@ tile.aether.slab.brick.holystone.desc=Une plaque de briques de roche sacré.
 tile.aether.stairs.brick.holystone.name=Escaliers en briques de pierres sacrées
 tile.aether.stairs.brick.holystone.desc=Un bloc en briques de roche sacré utilisé pour un déplacement vertical rapide.
 
+tile.pressureplate.holystone.name=Plaque de pression en roche sacrée
+tile.pressureplate.holystone.desc=Émet un signal de poudre écarlate lorsque des créatures vivantes marchent dessus.
+
+tile.pressureplate.cobble.holystone.name=Plaque de pression en pierres sacrées
+tile.pressureplate.cobble.holystone.desc=Émet un signal de poudre écarlate lorsqu'un joueur marche dessus.
+
+tile.button.holystone.name=Bouton en roche sacrée
+tile.button.holystone.desc=Émet un bref signal de poudre écarlate lorsqu'il est pressé.
+
+tile.statue.holystone.upper.name=Statue de roche sacrée (supérieure)
+tile.statue.holystone.upper.desc=
+
+tile.statue.holystone.lower.name=Statue de roche sacrée (inférieure)
+tile.statue.holystone.lower.desc=
+
 # Autres blocs de roches
 tile.aether.icestone.name=Roche gelé
 tile.aether.icestone.desc=Pierre gelée qui gèle tout ce qu'elle touche.
 tile.aether.aerogel.name=Aérogel
 tile.aether.aerogel.desc=Nuage dense et résistant aux explosions.
 
-# Blocs d' aéro-nuages
+# Blocs d'aéro-nuages
 tile.aether.aercloud.white.name=Aéro-nuage froid
 tile.aether.aercloud.white.desc=Nuage blanc. Très duveteux !
 tile.aether.aercloud.blue.name=Aéro-nuage bleu
@@ -688,7 +703,7 @@ tile.aether.carved.stone.trapped.locked.name=Pierre sentinelle piègée vérroui
 tile.aether.carved.stone.trapped.locked.desc=Un bloc sournois qui invoque une sentinelle, actuellement incassable.
 tile.aether.carved.stone.locked.name=Pierre sentinelle vérrouillée
 tile.aether.carved.stone.locked.desc=Bloc de labyrinthe incassable.
-tile.aether.carved.stone.light.locked.name=Pierre labyrinthe illuminée vérroullée
+tile.aether.carved.stone.light.locked.name=Pierre labyrinthique illuminée vérroullée
 tile.aether.carved.stone.light.locked.desc=Bloc décoratif incassable pour labyrinthe qui brille d'une lumière éthérée.
 
 tile.aether.carved.angelic.name=Pierre angélique
@@ -736,7 +751,7 @@ tile.aether.door.dungeon.bronze.desc=L'entrée vers le boss du donjon.
 tile.aether.door.dungeon.silver.name=Porte du temple
 tile.aether.door.dungeon.silver.desc=L'entrée vers le boss du temple.
 tile.aether.door.dungeon.gold.name=Porte du sanctuaire
-tile.aether.door.dungeon.gold.desc=L'entrée vers le boss du sanctuaire.
+tile.aether.door.dungeon.gold.desc=L'entrée vers le maître du sanctuaire.
 
 # Verre de sable accélérant
 tile.aether.glass.quicksoil.name=Verre de sable accélérant
