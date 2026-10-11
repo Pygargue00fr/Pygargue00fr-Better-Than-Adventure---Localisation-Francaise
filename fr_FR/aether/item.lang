@@ -184,6 +184,21 @@ item.aether.armor.gloves.obsidian.desc=Une paire de gants en obsidienne résista
 item.aether.armor.gloves.neptune.name=Gants de neptune
 item.aether.armor.gloves.neptune.desc=Une paire de gants de Neptune foudroyants.
 
+item.armor.wolf.zanite.name=Armure de loup en zanite
+item.armor.wolf.zanite.desc=Protégez votre meilleur ami grâce à ce caparaçon en zanite brillant.
+
+item.armor.wolf.gravitite.name=Armure de loup en gravitite
+item.armor.wolf.gravitite.desc=Protégez votre meilleur ami grâce à ce caparaçon en en gravitite puissant.
+
+item.armor.wolf.obsidian.name=Armure de loup en obsidienne
+item.armor.wolf.obsidian.desc=Protégez votre meilleur ami grâce à ce caparaçon en obsidienne résistant.
+
+item.armor.wolf.phoenix.name=Armure de loup du phénix
+item.armor.wolf.phoenix.desc=Protégez votre meilleur ami grâce à ce caparaçon du phénix flamboyants.
+
+item.armor.wolf.neptune.name=Armure de loup de neptune
+item.armor.wolf.neptune.desc=Protégez votre meilleur ami grâce à ce caparaçon de Neptune foudroyant.
+
 # Objets des dongeons
 item.aether.medal.victory.name=Médaille de la Victoire
 item.aether.medal.victory.desc=Une récompense provenant d'une valkyrie vaincue. Collectionnez-en 10 !
@@ -390,3 +405,6 @@ item.aether.sign.skyroot.painted.red.name=Pancarte en bois éthéré rouge
 item.aether.sign.skyroot.painted.red.desc=Marquez votre territoire ou écrivez un message.
 item.aether.sign.skyroot.painted.black.name=Pancarte en bois éthéré noire
 item.aether.sign.skyroot.painted.black.desc=Marquez votre territoire ou écrivez un message.
+
+item.statue.holystone.name=Statue de pierres sacrées
+item.statue.holystone.desc=Une statue décorative sculptée dans de la roche sacrée.
